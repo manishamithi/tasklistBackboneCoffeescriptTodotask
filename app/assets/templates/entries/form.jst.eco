@@ -1,0 +1,4 @@
+<input type="text" name="ename" id="new_entry_name" placeholder="Enter task here....."></br></br>
+Start date :<input type="date" name="startdate" id="new_entry_starttime" class="input-text" placeholder="dd/mm/yyyy">  
+End Date :<input type="date" name="enddate" id="new_entry_endtime" class="input-text" placeholder="dd/mm/yyyy"></br></br>
+  <input type="submit" value="Add"></br></br>
