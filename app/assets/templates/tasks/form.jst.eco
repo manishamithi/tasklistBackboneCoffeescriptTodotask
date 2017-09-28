@@ -1,0 +1,6 @@
+<input type="text" name="listname" id="new_entry_name" placeholder="Enter task here....."></br></br>
+<div>Start date :<input type="date" name="startdate" id="new_entry_startdate" class="input-text" placeholder="dd/mm/yyyy">  
+End Date :<input type="date" name="enddate" id="new_entry_enddate" class="input-text" placeholder="dd/mm/yyyy"></div>
+<div>
+  <input type="submit" value="Add"></br></br>
+ </div>

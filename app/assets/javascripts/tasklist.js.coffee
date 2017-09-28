@@ -6,7 +6,7 @@ window.Tasklist =
   Views: {}
   Routers: {}
   init: -> 
-    new Tasklist.Routers.Entries()
+    new Tasklist.Routers.Tasks()
     Backbone.history.start()
 
 $(document).ready ->

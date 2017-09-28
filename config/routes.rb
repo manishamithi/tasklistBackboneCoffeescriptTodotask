@@ -1,6 +1,6 @@
 Tasklist::Application.routes.draw do
   scope "api" do
-    resources :entries
+    resources :tasks
   end
   root to: "main#index"
 end

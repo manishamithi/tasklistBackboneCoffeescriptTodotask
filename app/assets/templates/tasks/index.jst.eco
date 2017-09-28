@@ -1,0 +1,18 @@
+<h1>TODO LIST</h1>
+<form id="new_task">
+
+</form>
+<table style="width:100%">
+<thead>
+<tr>
+ <th class="fixed">Task</th>
+ <th class="small">Start Date</th>
+ <th class="small">End Date</th>
+ <th colspan="2" class="equal"> Operation  </th>
+ 
+ </tr>
+</thead>
+<tbody id="tasks"></tbody>
+</table>
+
+

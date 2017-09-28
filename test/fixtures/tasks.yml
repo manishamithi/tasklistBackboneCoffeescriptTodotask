@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  listname: MyString
+  startdate: MyString
+  enddate: MyString
+  complete: false
+
+two:
+  listname: MyString
+  startdate: MyString
+  enddate: MyString
+  complete: false

@@ -1,0 +1,17 @@
+
+<td width="30%">  
+	<input id="<%= @task.id%>"  class="add" type="checkbox" <%= if @task.get('complete') then 'checked' else ''%>>
+    <span class="todo-label"><%= @task.get('listname')%></span>
+</td>
+<td width="30%">
+	<span class="second"><%= @task.get('startdate')%></span>
+</td>
+<td>
+	<span class="third"><%= @task.get('enddate')%></span>
+</td>
+<td width="20%">
+ 	<button class="edit">edit</button>
+</td>
+<td width="20%">
+ 	<button class="destroy">x</button>
+ </td>

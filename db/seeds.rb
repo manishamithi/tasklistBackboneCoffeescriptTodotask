@@ -1,7 +1,7 @@
-Entry.create!(ename: "Yehuda Katz")
-Entry.create!(ename: "DHH")
-Entry.create!(ename: "Jose Valim")
-Entry.create!(ename: "Dr Nic")
-Entry.create!(ename: "John Nunemaker")
-Entry.create!(ename: "Aaron Patterson")
+Task.create!(listname: "Yehuda Katz")
+Task.create!(listname: "DHH")
+Task.create!(listname: "Jose Valim")
+Task.create!(listname: "Dr Nic")
+Task.create!(listname: "John Nunemaker")
+Task.create!(listname: "Aaron Patterson")
 
